@@ -1,0 +1,11 @@
+"ls" -> helps to look at your surroundings
+"cd LOCATION" -> move to a new location with the command
+"cd .." -> you can backtrack with the command 
+"less ITEM" -> interact with things in the world with the command 
+"pwd" -> if you forget where you are, type
+"tellme combo" -> command to get combination for a room
+"terminus" -> combination for the AthenaCluster
+"add LOCKERNAME" -> adds locker to your home
+"mv" -> used to move things in the world (mv OBJECT NEWLOCATION)
+"Help" -> allows you to recall spells
+2 signs
